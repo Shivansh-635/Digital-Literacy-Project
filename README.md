@@ -4,29 +4,28 @@
 
 Digital Literacy and Awareness
 
-🎯 Objective
+# 🎯Objective
 
 The objective of this project is to develop awareness about digital literacy, including safe internet usage, cyber security, online communication, and responsible digital behavior.
 
-📂 Project Structure
+# Project Structure
 Digital Skills Project/
 │
 ├── README.md
 ├── Project_Report.pdf
-│
 ├── Task-1-Presentation/
 ├── Task-2-Portfolio/
 ├── Task-3-Platforms/
 ├── Task-4-Email-Etiquette/
 ├── Task-5-Cybercrime/
 
-📝 Task Description ~
+# Task Description ~
 
-📊 Task 1: Presentation
+Task 1: Presentation
 
 Created an infographic slide using tools like Canva/Prezi/Miro to explain digital literacy concepts.
 
-💼 Task 2: Portfolio
+Task 2: Portfolio
 
 Developed a personal digital portfolio showcasing skills, achievements, and online presence.
 
@@ -42,15 +41,16 @@ Learned proper email writing formats, professional communication, and do’s & d
 
 Studied different types of cybercrimes such as phishing, hacking, identity theft, and safety measures.
 
-🛠 Tools Used
+# Tools Used
 Canva
 Internet resources
-📚 Learning Outcomes
+
+# Learning Outcomes
 Understanding of digital literacy concepts
 Awareness of cyber security and safe online practices
 Improved communication skills in digital environments
 Knowledge of digital tools and platforms
-👨‍🎓 Author
 
+Author ~
 Name: Shivansh Singla
 Course: B.Tech Aerospace Engineering
