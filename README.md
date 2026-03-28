@@ -1,10 +1,8 @@
-# Digital-Literacy-Project
-📘 Digital Skills Project – README
-📌 Project Title
-
+# Digital Literacy Project
+Digital Skills Project – README
 Digital Literacy and Awareness
 
-# 🎯Objective
+# Objective
 
 The objective of this project is to develop awareness about digital literacy, including safe internet usage, cyber security, online communication, and responsible digital behavior.
 
@@ -29,15 +27,15 @@ Task 2: Portfolio
 
 Developed a personal digital portfolio showcasing skills, achievements, and online presence.
 
-🌐 Task 3: Platforms
+Task 3: Platforms
 
 Explored various digital platforms and their uses in communication, learning, and business.
 
-📧 Task 4: Email Etiquette
+Task 4: Email Etiquette
 
 Learned proper email writing formats, professional communication, and do’s & don’ts.
 
-🔐 Task 5: Cybercrime
+Task 5: Cybercrime
 
 Studied different types of cybercrimes such as phishing, hacking, identity theft, and safety measures.
 
