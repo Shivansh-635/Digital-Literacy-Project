@@ -10,8 +10,6 @@ I assure you that I will utilize this additional time effectively and submit the
 
 Thank you for your understanding and consideration.
 
-Yours sincerely,
-
+Yours sincerely
 Shivansh Singla
-
 25BAS10014
