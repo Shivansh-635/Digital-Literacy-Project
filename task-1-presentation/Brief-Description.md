@@ -1,4 +1,4 @@
-# Brief Description
+# TASK 1: Brief Description
 
 For my presentation, I decided to use Canva because it is such a user-friendly design tool that makes it easy to create something professional-looking, even if you aren't a graphic designer. My project specifically explores the concept of digital literacy, which is essentially our ability to find, evaluate, and share information safely using technology. I wanted my slides to show that being digitally literate isn't just about knowing how to use a computer; it’s about combining those technical skills with critical thinking to stay safe and communicate effectively.
 
