@@ -15,13 +15,21 @@ Course: B.Tech Aerospace Engineering
 The objective of this project is to develop awareness about digital literacy, including safe internet usage, cyber security, online communication, and responsible digital behavior.
 
 # Project Structure
+
 Digital Skills Project ~
+
 ├── README.md
+
 ├── Project_Report.pdf
+
 ├── Task-1-Presentation/
+
 ├── Task-2-Portfolio/
+
 ├── Task-3-Platforms/
+
 ├── Task-4-Email-Etiquette/
+
 ├── Task-5-Cybercrime/
 
 # Task Description ~
@@ -48,6 +56,7 @@ Studied different types of cybercrimes such as phishing, hacking, identity theft
 
 # Tools Used
 Canva
+
 Internet resources
 
 # Learning Outcomes
