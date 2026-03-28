@@ -2,13 +2,20 @@
 Digital Skills Project – README
 Digital Literacy and Awareness
 
+Author ~
+
+Name: Shivansh Singla
+
+Registration Number: 25BAS10014
+
+Course: B.Tech Aerospace Engineering
+
 # Objective
 
 The objective of this project is to develop awareness about digital literacy, including safe internet usage, cyber security, online communication, and responsible digital behavior.
 
 # Project Structure
-Digital Skills Project/
-│
+Digital Skills Project ~
 ├── README.md
 ├── Project_Report.pdf
 ├── Task-1-Presentation/
@@ -48,7 +55,3 @@ Understanding of digital literacy concepts
 Awareness of cyber security and safe online practices
 Improved communication skills in digital environments
 Knowledge of digital tools and platforms
-
-Author ~
-Name: Shivansh Singla
-Course: B.Tech Aerospace Engineering
